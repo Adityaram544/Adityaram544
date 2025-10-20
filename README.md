@@ -18,7 +18,7 @@
 <!-- About Section -->
 <p align="center">
   🌱 I’m currently learning <b>React Framework</b> and <b>Java</b><br>
-  👨‍💻 All of my projects are available at <a href="https://adityaram544.github.io/explore/" target="_blank"><b>My Portfolio</b></a><br>
+  👨‍💻 All of my projects are available at <a href="https://adityaram544.github.io/Portfolio/" target="_blank"><b>My Portfolio</b></a><br>
   📫 How to reach me: <b>adityaram2005adi@gmail.com</b>
 </p>
 
