@@ -16,12 +16,6 @@
 </p>
 
 <!-- About Section -->
-<p align="left">
-  🌱 I’m currently learning <b>React Framework</b> and <b>Java</b><br>
-  👨‍💻 All of my projects are available at <a href="https://adityaram544.github.io/Portfolio/" target="_blank"><b>My Portfolio</b></a><br>
-  📫 How to reach me: <b>adityaram2005adi@gmail.com</b>
-</p>
-
 - 🌱 I’m currently learning React Framework and Java
   
 - 👨‍💻 All of my projects are available at [My Portfolio](https://adityaram544.github.io/Portfolio/)
